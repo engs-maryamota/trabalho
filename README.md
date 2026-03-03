@@ -71,6 +71,16 @@ git config --global user.email "email@exemplo.com"
 - Criação de portfólio.
 
 - É possível criar repositórios públicos ou privados e conectar ao Git e ao VSCode.
+## 🔹 Prática proposta
 
+- Criar pasta do projeto;
+
+- Inicializar Git;
+
+- Criar README;
+
+- Fazer commit;
+
+- Publicar no GitHub;
 
 - Enviar o link no Classroom.
